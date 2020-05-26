@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/lakshayD08/tic-tac-toe.git/static/css/main.996b4e28.chunk.css",
+    "main.js": "/lakshayD08/tic-tac-toe.git/static/js/main.c05b9682.chunk.js",
+    "main.js.map": "/lakshayD08/tic-tac-toe.git/static/js/main.c05b9682.chunk.js.map",
+    "runtime-main.js": "/lakshayD08/tic-tac-toe.git/static/js/runtime-main.75f3d999.js",
+    "runtime-main.js.map": "/lakshayD08/tic-tac-toe.git/static/js/runtime-main.75f3d999.js.map",
+    "static/js/2.a5191be2.chunk.js": "/lakshayD08/tic-tac-toe.git/static/js/2.a5191be2.chunk.js",
+    "static/js/2.a5191be2.chunk.js.map": "/lakshayD08/tic-tac-toe.git/static/js/2.a5191be2.chunk.js.map",
+    "index.html": "/lakshayD08/tic-tac-toe.git/index.html",
+    "precache-manifest.f7b5c20382f81f36736eeb7415fd35a5.js": "/lakshayD08/tic-tac-toe.git/precache-manifest.f7b5c20382f81f36736eeb7415fd35a5.js",
+    "service-worker.js": "/lakshayD08/tic-tac-toe.git/service-worker.js",
+    "static/css/main.996b4e28.chunk.css.map": "/lakshayD08/tic-tac-toe.git/static/css/main.996b4e28.chunk.css.map",
+    "static/js/2.a5191be2.chunk.js.LICENSE.txt": "/lakshayD08/tic-tac-toe.git/static/js/2.a5191be2.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/lakshayD08/tic-tac-toe.git/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.75f3d999.js",
+    "static/js/2.a5191be2.chunk.js",
+    "static/css/main.996b4e28.chunk.css",
+    "static/js/main.c05b9682.chunk.js"
+  ]
+}
