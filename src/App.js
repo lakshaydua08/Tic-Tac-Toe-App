@@ -16,7 +16,7 @@ class App extends Component{
     <hr/>
     <Game/>
     <hr/>
-    <div className="footer">ReactJS assignment by Lakshay Dua <a href="https://github.com/lakshaydua08/Tic-Tac-Toe-.git"> GitHub</a></div>
+    <div className="footer">ReactJS assignment by Lakshay Dua <a href="https://github.com/lakshaydua08/Tic-Tac-Toe-App"> GitHub</a></div>
     </div>
   );
   }
